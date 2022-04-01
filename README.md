@@ -1,1 +1,1 @@
-# MI_Mini-project
+# MI_Electronics_Circuit_Analyzer
